@@ -24,6 +24,7 @@ class homepage extends StatelessWidget{
         color: Colors.blue,
         child: Center(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Container(
                 padding: EdgeInsets.fromLTRB(35, 0, 35, 0),
