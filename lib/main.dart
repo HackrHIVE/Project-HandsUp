@@ -21,6 +21,7 @@ class homepage extends StatelessWidget{
       body: Container(
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
+        color: Colors.blue,
         child: Center(
           child: Column(
             children: <Widget>[
@@ -64,7 +65,7 @@ class homepage extends StatelessWidget{
               ),
               FlatButton(
                 padding: EdgeInsets.fromLTRB(50, 30, 50, 0),
-//                onPressed: (){Scaffold.of(context).showSnackBar(new SnackBar(content: new Text('Loggin in!')));},
+//                onPressed: (){Scaffold.of(context).showSnackBar(new SnackBar(content: new Text('Logging in!')));},
                 child: Container(
 
                   padding: EdgeInsets.all(10),
