@@ -26,6 +26,9 @@ dependencies:
   #Swipable Cards
   flutter_tindercard: ^0.1.4
 
+  #Alert for messages
+  rflutter_alert: ^1.0.2
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
@@ -40,6 +43,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  fonts:
+    - family: Abril Fatface
+      fonts:
+        - asset: fonts/AbrilFatface-Regular.ttf
+          weight: 400
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
