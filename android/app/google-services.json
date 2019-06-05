@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904129916726",
+    "firebase_url": "https://flutterfinal-8acba.firebaseio.com",
+    "project_id": "flutterfinal-8acba",
+    "storage_bucket": "flutterfinal-8acba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904129916726:android:a10a64d43adddb53",
+        "android_client_info": {
+          "package_name": "rawal.chirag.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904129916726-62bs1aap38qfo5hruj8m1647mshnk2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraETbThKGRD4aJaI-5h1JHk2GvGpU7Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904129916726-62bs1aap38qfo5hruj8m1647mshnk2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
