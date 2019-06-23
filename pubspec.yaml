@@ -20,9 +20,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #Cloud Firestore
+  cloud_firestore: ^0.12.3
   #Firebase Authentication
   firebase_auth:
-  #For Swipe Button (can bes used as Submission)
+  #For Swipe Button (can be used as Submission)
   swipe_button: ^0.0.2
   #Swipable Cards
   flutter_tindercard: ^0.1.4
