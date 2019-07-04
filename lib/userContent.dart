@@ -76,6 +76,13 @@ class _userState extends State<UserContent>{
         child: Container(
               height: MediaQuery.of(context).size.height * 0.6,
               child: new TinderSwapCard(
+                swipeCompleteCallback: (CardSwipeOrientation orientation,int index){
+                  debugPrint(index.toString());
+                  debugPrint(orientation.toString());
+                },
+                swipeUpdateCallback: (DragUpdateDetails details){
+
+                },
                 orientation: AmassOrientation.BOTTOM,
                 totalNum: tempListIMG.length,
                 stackNum: 3,

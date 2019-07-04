@@ -27,7 +27,7 @@ dependencies:
   #For Swipe Button (can be used as Submission)
   swipe_button: ^0.0.2
   #Swipable Cards
-  flutter_tindercard: ^0.1.4
+  flutter_tindercard: ^0.1.5
   #Alert for messages
   rflutter_alert: ^1.0.2
 
